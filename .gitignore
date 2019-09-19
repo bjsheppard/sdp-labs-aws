@@ -2,3 +2,4 @@
 *.iml
 _build
 _static
+.vscode
